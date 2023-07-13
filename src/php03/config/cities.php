@@ -38,5 +38,5 @@ $cities = [
         'img' => 'america.jpg'
     ]
 ];
-var_dump($cities);
+// var_dump($cities);
 ?>
